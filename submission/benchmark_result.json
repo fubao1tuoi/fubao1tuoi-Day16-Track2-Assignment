@@ -1,0 +1,18 @@
+{
+  "dataset_rows": 284807,
+  "dataset_columns": 31,
+  "fraud_rows": 492,
+  "load_time_seconds": 2.766525,
+  "training_time_seconds": 7.947828,
+  "best_iteration": 130,
+  "auc_roc": 0.963446,
+  "accuracy": 0.998894,
+  "f1_score": 0.734177,
+  "precision": 0.625899,
+  "recall": 0.887755,
+  "inference_latency_ms": 1.32613,
+  "inference_1000_rows_seconds": 0.006123,
+  "inference_throughput_rows_per_second": 163321.89,
+  "python_version": "3.11.2",
+  "lightgbm_version": "4.7.0"
+}

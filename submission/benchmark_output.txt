@@ -1,0 +1,18 @@
+============================================================
+LIGHTGBM CREDIT CARD FRAUD BENCHMARK
+============================================================
+Dataset shape       : (284807, 31)
+Fraud rows          : 492
+Load time           : 2.766525 seconds
+Training time       : 7.947828 seconds
+Best iteration      : 130
+AUC-ROC             : 0.963446
+Accuracy            : 0.998894
+F1-score            : 0.734177
+Precision           : 0.625899
+Recall              : 0.887755
+Latency (1 row)     : 1.326130 ms
+Batch time (1000)   : 0.006123 seconds
+Throughput          : 163321.89 rows/second
+Saved result        : benchmark_result.json
+============================================================
